@@ -10,4 +10,4 @@ Run this executable file `CPU_Scheduling` for Unix user.
 ```
 git clone https://github.com/jacky900517/OS-Final-report-CPUScheduling-simulator.git
 ```
-2. Run or Compile source code
+2. Run executable file or Compile source code
