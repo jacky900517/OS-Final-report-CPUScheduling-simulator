@@ -1,4 +1,13 @@
 # How to Build
-Windows user please use any C++ compiler run the source code
+Use any C++ compiler run the source code or
 
-Unix (Mac,Linux) user can run `CPU_Scheduling` this executable file in terminal
+Run this executable file `CPU_Scheduling` for Unix user.
+
+`CPU_Scheduling.exe` for Windows user.
+
+# Steps
+1. clone the repo
+```
+git clone https://github.com/jacky900517/OS-Final-report-CPUScheduling-simulator.git
+```
+2. Run or Compile source code
